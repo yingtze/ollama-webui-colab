@@ -1,5 +1,8 @@
 # **Run Ollama with OpenWebUI as Frontend on Google Colab**
 
+Ini adalah contoh program dalam notebook yang bisa langsung digunakan. Cukup klik ikon di bawah ini untuk membuka url google colab :
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_Colab.ipynb)
+
 ## **Cara Penggunaan**
 
 ### 1. Atur Runtime di Google Colab
@@ -48,5 +51,3 @@
   ```
 - Tunggu hingga **Cloudflare** memberikan **link URL** di terminal.
 - **Akses URL tersebut**, daftarkan akun jika belum memiliki, lalu aplikasi siap digunakan.
-
-Arigatouuuu
