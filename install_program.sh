@@ -20,14 +20,6 @@ curl -fsSL https://ollama.com/install.sh | sh
 log "Menginstall uvx..."
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
-# Source environment uvx jika tersedia
-if [ -f "$HOME/.local/bin/env" ]; then
-  log "Melakukan source uvx env..."
-  source "$HOME/.local/bin/env"
-else
-  log "Env uvx tidak ditemukan di \$HOME/.local/bin/env"
-fi
-
 # 4. Install cloudflared
 CLOUDFLARED_DEB="cloudflared-linux-amd64.deb"
 log "Mengunduh cloudflared..."

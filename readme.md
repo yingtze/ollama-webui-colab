@@ -15,36 +15,36 @@
 ### 3. Clone Repository
 - Clone repository dengan perintah:
   ```bash
-  git clone https://github.com/yingtze/ollama-webui-colab.git
+  !git clone https://github.com/yingtze/ollama-webui-colab.git
   ```
 
 ### 4. Atur Izin Eksekusi
 - Jalankan perintah berikut untuk memberikan izin eksekusi pada skrip yang diperlukan:
   ```bash
-  chmod +x ollama-webui-colab/install_program.sh ollama-webui-colab/download_model.sh ollama-webui-colab/start.sh
+  !chmod +x ollama-webui-colab/install_program.sh ollama-webui-colab/download_model.sh ollama-webui-colab/start.sh
   ```
 - Alternatifnya, bisa juga **drag and drop** file dari folder `ollama-webui-colab` ke luar atau ubah **working directory** ke folder tersebut sesuai metode yang diinginkan.
 
 ### 5. Instalasi Dependency
 - Jalankan perintah berikut untuk menginstal semua dependency yang diperlukan:
   ```bash
-  ./ollama-webui-colab/install_program.sh
+  !./ollama-webui-colab/install_program.sh
   ```
 
 ### 6. Unduh Model LLM
 - Gunakan perintah berikut untuk mengunduh model dari repository Ollama:
   ```bash
-  ./ollama-webui-colab/download_model.sh --model {nama_model}
+  !./ollama-webui-colab/download_model.sh --model {nama_model}
   ```
 - **Contoh penggunaan:** Untuk mengunduh model `deepseek-r1:1.5b`, jalankan:
   ```bash
-  ./ollama-webui-colab/download_model.sh --model deepseek-r1:1.5b
+  !./ollama-webui-colab/download_model.sh --model deepseek-r1:1.5b
   ```
 
 ### 7. Menjalankan Aplikasi
 - Jalankan aplikasi dengan perintah:
   ```bash
-  ./ollama-webui-colab/start.sh
+  !./ollama-webui-colab/start.sh
   ```
 - Tunggu hingga **Cloudflare** memberikan **link URL** di terminal.
 - **Akses URL tersebut**, daftarkan akun jika belum memiliki, lalu aplikasi siap digunakan.
