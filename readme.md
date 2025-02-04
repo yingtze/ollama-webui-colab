@@ -1,8 +1,11 @@
 # **Run Ollama with OpenWebUI on Google Colab**
 
 Ini adalah contoh program dalam notebook yang bisa langsung digunakan. Cukup klik ikon di bawah ini untuk membuka url google colab :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_Colab.ipynb) <br>
 
+Notebook v2 -> [![Project Colab v2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_colab_v2.ipynb) <br>
+
+https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_colab_v2.ipynb
 ## **Cara Penggunaan**
 
 ### 1. Atur Runtime di Google Colab
