@@ -5,7 +5,6 @@ Ini adalah contoh program dalam notebook yang bisa langsung digunakan. Cukup kli
 
 Notebook v2 -> [![Project Colab v2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_colab_v2.ipynb) <br>
 
-https://colab.research.google.com/github/yingtze/ollama-webui-colab/blob/main/Ollama_OpenWebUI_colab_v2.ipynb
 ## **Cara Penggunaan**
 
 ### 1. Atur Runtime di Google Colab
